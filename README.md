@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# book-a-car
+Book a car using Smove API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +69,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# book-a-car
-Book a car using Smove API
->>>>>>> 107934b1d0abb43457d41a0b55cc5b831b33af4c
